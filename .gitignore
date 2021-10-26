@@ -1,2 +1,3 @@
 *.bst
 *checkpoints
+*/__pycache__/*
